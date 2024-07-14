@@ -1,0 +1,4 @@
+IE{!_am_hEre_buDdi_2024}
+
+Make the executable (chmod +x challenge1). Run it and overflow it. It gives the flag with a segmentation fault.
+[Input used here: %p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p%p.%p.%p.%p.%p.%p ] 
