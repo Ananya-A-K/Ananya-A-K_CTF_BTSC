@@ -1,0 +1,5 @@
+1)
+IE_CTF{00020c0f1316223d4a5f606266676a6c75808e93a0a7aeb3b7b9babbc1c7cdced5e0e4e6eff0}
+
+
+A hidden file .git is found in the Main Folder after unzipping the file. in objects folder we get it.
