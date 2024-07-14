@@ -1,0 +1,5 @@
+IE_CTF{Yup entered data is indeed the flag! Submit it :Q}
+
+Used binwalk to extract the hidden files. After in that in the dummy folder we find hidden directory ".hacker", which has a file "question_for_ctf", which is a ELF 64-bit LSB executable.
+When the file contents are checked using nano editor we get the flag.
+
